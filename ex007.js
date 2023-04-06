@@ -33,3 +33,7 @@ console.log(resultado);
 
 let local = 'praia'
 let estadoEmocional = true
+
+
+
+
